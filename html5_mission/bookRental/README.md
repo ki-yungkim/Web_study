@@ -15,7 +15,7 @@
  
 ## html5 구조
  
-'''
+~~~
 <!DOCTYPE html>
 <html>
 <head>
@@ -100,7 +100,7 @@
 
 </body>
 </html>
-''' 
+~~~
 
 ## html5 스크립트
 
