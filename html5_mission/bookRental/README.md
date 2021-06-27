@@ -21,7 +21,7 @@
 
 
 
-<body>
+
 <h3>HTML5 실습</h3>
 <h3>도서대여예약</h3>
 <table border="1" cellspacing="5px" cellpadding="5px">
@@ -95,7 +95,7 @@
 </form>
 </table>
 
-</body>
+
 
 </code>
 </pre>
