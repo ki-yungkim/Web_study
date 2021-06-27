@@ -18,12 +18,9 @@
 <pre>
 <code>
 
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>도서대여예약</title>
-</head>
+
+
+
 <body>
 <h3>HTML5 실습</h3>
 <h3>도서대여예약</h3>
@@ -99,7 +96,6 @@
 </table>
 
 </body>
-</html>
 
 </code>
 </pre>
