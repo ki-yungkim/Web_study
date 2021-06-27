@@ -14,8 +14,9 @@
  - 도서 수령시간 : (09시~17시 사이)
  
 ## html5 구조
- 
-~~~
+<pre> 
+<code>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -100,7 +101,9 @@
 
 </body>
 </html>
-~~~
+
+</code>
+</pre>
 
 ## html5 스크립트
 
